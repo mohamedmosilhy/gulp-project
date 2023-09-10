@@ -1,0 +1,1 @@
+{"version":3,"sources":["one.js","two.js"],"names":[],"mappings":"AAAA;AACA;ACDA;AACA","file":"main.js","sourcesContent":["document.getElementById(\"one\").innerHTML = \"text one from js\";\r\n","document.getElementById(\"two\").innerHTML = \"text two from js\";\r\n"]}
